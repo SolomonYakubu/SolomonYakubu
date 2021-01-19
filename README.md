@@ -50,7 +50,7 @@
 
 <td align="center" width="20%">
 <span><b><center>SCSS</center></b></span> 
-<img height=65px src="https://lh3.googleusercontent.com/proxy/-lcJKYJC3Tzrh37E74yX4MdKnbRO2XQU0HBmMBOlaCnxkz764cRyyrHmjh25UJTrq-9BPCpfXVapYbPOjg6YYFkE4kFz53t5IFqeeTDpis4"> 
+<img height=65px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNkRBkwKDH4RS7YmhrN3ZaqPBnkRvVYO5Rgg&usqp=CAU"> 
 </td>
 
 
