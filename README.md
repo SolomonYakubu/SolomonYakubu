@@ -49,7 +49,7 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Scss</center></b></span> 
+<span><b><center>SCSS</center></b></span> 
 <img height=65px src="https://lh3.googleusercontent.com/proxy/-lcJKYJC3Tzrh37E74yX4MdKnbRO2XQU0HBmMBOlaCnxkz764cRyyrHmjh25UJTrq-9BPCpfXVapYbPOjg6YYFkE4kFz53t5IFqeeTDpis4"> 
 </td>
 
