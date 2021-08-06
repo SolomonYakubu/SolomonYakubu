@@ -82,7 +82,7 @@
 </table>
 
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=SolomomYakubu)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SolomonYakubu&count_private=true&show_icons=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonYakubu">
 <!--
