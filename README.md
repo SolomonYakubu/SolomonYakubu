@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Kingsolo
 
+<div align="center"><img src="https://avatars.githubusercontent.com/u/59848082?s=400&u=a7757773c1dc1d564a78ec89a574f0dd8a44b829&v=4" width="150px" height="150px"></div>
 <p align="right"><i>...A Tech Lover</i></p>
 
 ## Tech Stack :computer:
