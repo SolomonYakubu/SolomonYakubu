@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Kingsolo
 
-- I'm a Software Engineer
-- I Love Javascript
+<p align="right"><i>...A Tech Lover</i></p>
 
 ## Tech Stack :computer:
 
