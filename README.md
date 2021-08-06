@@ -84,12 +84,13 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SolomonYakubu&count_private=true&show_icons=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonYakubu">
+
+![](https://visitor-badge.glitch.me/badge?page_id=SolomomYakubu)
 <!--
 <img src="https://komarev.com/ghpvc/?username=SolomonYakubu&label=Profile+Visits&color=dc143c">
 **SolomonYakubu/SolomonYakubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=SolomomYakubu)
 
 
 Credits: [SolomonYakubu](https://github.com/SolomonYakubu)
