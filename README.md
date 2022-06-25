@@ -69,7 +69,7 @@
 
 <td align="center" width="20%">
 <span><b><center>Nginx</center></b></span> 
-<img height=65px src="http://www.myiconfinder.com/uploads/iconsets/256-256-cf2ed3956a3a1484f83ed20d7e987f21.png"> 
+<img height=65px src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg"> 
 </td>
 
 <td align="center" width="20%">
