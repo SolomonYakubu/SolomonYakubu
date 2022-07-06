@@ -83,16 +83,17 @@
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SolomonYakubu&count_private=true&show_icons=true"> -->
-<table width="100%">
+<table >
+<tbody >
  <tr >
-  <td width="100%">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonyakubu&count_private=true&show_icons=true&theme=radical">
+  <td width="100%" align="center">
+   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=solomonyakubu&count_private=true&show_icons=true&theme=radical">
 
    </td>
  </tr>
  <tr>
-   <td width="100%">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonYakubu&count_private=true&show_icons=true&theme=radical"> 
+   <td width="100%" align="center">
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolomonYakubu&count_private=true&show_icons=true&theme=radical"> 
     </td>
  </tr>
  <tr>
@@ -102,5 +103,6 @@
 
   </td>
  </tr>
+ </tbody>
  </table>
 
