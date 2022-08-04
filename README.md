@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kingsolo
 
-<div align="center"><img src="https://kingsolo.vercel.app/static/media/avatar.c15f9676a95e28b935b9.png" width="250px" height="250px"></div>
+<div align="center"><img src="https://kingsolo.vercel.app/static/media/avatar.c15f9676a95e28b935b9.png" width="200px" height="200px"></div>
 <p align="right"><i>...A Tech Lover</i></p>
 
 ## Tech Stack :computer:
