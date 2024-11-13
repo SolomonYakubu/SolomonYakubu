@@ -75,7 +75,7 @@
   <a href="https://www.linkedin.com/in/yakubusolomon" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://x.xom/king__solo" target="_blank">
+  <a href="https://x.com/king__solo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <a href="https://instagram.com/_kingsolo" target="_blank">
